@@ -1,11 +1,11 @@
-let x = 0;
-let y = 1;
+var x = 0;
+var y = 1;
 
 console.log(x);
 console.log(y);
 
-let a = x + 3;
-let b = y + 3;
+var x = x + 3;
+var y = y + 3;
 
-console.log(a);
-console.log(b);
+console.log(x);
+console.log(y);
